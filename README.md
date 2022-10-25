@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+<img align="center" width ="400" src="https://user-images.githubusercontent.com/16222656/197680501-6cbde0eb-c35b-49b7-bf71-8ebe4ab6105f.png">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning models
@@ -10,5 +14,3 @@ Here are some ideas to get you started:
                        
 - 😄 Pronouns: She/Her
 
-
-<img align="right" src="![image](https://user-images.githubusercontent.com/16222656/197680501-6cbde0eb-c35b-49b7-bf71-8ebe4ab6105f.png)">
